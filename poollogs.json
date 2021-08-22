@@ -1,0 +1,13 @@
+{
+    "lastPayout": {
+        "date": 1629629613,
+        "rewards": 8100000000,
+        "producedBlocks": 81
+    },
+    "pending": {
+        "lskey898gv6y6eht4gdnheonaph4rcqxh476dbjq4": 231428571,
+        "lskmg3sdmjp4smz6x9k2cuyuwags5ehgtexe4w2ds": 578571428
+    },
+    "paid": {},
+    "history": []
+}
